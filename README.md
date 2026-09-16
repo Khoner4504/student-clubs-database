@@ -30,9 +30,9 @@ Lucidchart (EER modeling) · Oracle SQL (DDL, constraints, inserts)
 |---|---|
 | `schema.sql` | DROP/CREATE TABLE statements with all constraints, plus the valid and intentionally invalid test inserts |
 | `eer_diagram.pdf` | Fully specified EER diagram (Phase 2) |
-| `docs/Project_Phase_1.docx` | Case description and stakeholder interview |
-| `docs/ISM_Semester_Project_Phase_2.pdf` | Phase 2 requirements and instructor blueprint |
-| `docs/Project_Phase_3.docx` | Phase 3 requirements |
+| `Project_Phase_1.docx` | Case description and stakeholder interview |
+| `SM_Semester_Project_Phase_2.pdf` | Phase 2 requirements and instructor blueprint |
+| `Project_Phase_3.docx` | Phase 3 requirements |
 
 ## Notes
 
